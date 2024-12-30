@@ -1,0 +1,4 @@
+package business
+
+func Init() {
+}
